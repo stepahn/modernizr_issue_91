@@ -1,0 +1,10 @@
+body {
+  font-size: large;
+  font-weight: bold;
+}
+.no-js body {
+  color: red;
+}
+.js body {
+  color: green;
+}
